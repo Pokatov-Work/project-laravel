@@ -1,0 +1,75 @@
+{
+    "header": {
+        "title": "",
+        "subtitle": "",
+        "image": "",
+        "url": ""
+    },
+    "products": [{
+        "text_blocks": {
+            "title": "",
+            "quote": "",
+            "description": "",
+            "author_quote": "",
+            "secondary_one": "",
+            "secondary_two": ""
+        },
+        "wbt": {
+            "title": "",
+            "description": "",
+            "min_price": "",
+            "information_access": "",
+            "price_text": "",
+            "information_access": "",
+            "percent_last_year": "",
+            "percent_current_year": "",
+            "url": ""
+        },
+        "bct": {
+            "title": "",
+            "description": "",
+            "min_price": "",
+            "information_access": "",
+            "price_text": "",
+            "information_access": "",
+            "percent_last_year": "",
+            "percent_current_year": "",
+            "url": ""
+        },
+        "apt": {
+            "title": "",
+            "description": "",
+            "min_price": "",
+            "information_access": "",
+            "price_text": "",
+            "information_access": "",
+            "percent_last_year": "",
+            "percent_current_year": "",
+            "url": ""
+        }
+    }],
+    "mission": {
+        "title": "",
+        "subtitle": "",
+        "dop_text": ""
+    },
+    "cooperations": [{
+        "title_blocks": {
+            "title": "",
+            "subtitle": ""
+        },
+        "advantages": {
+            "cooperation_1": "",
+            "description_1": "",
+            "cooperation_2": "",
+            "description_2": "",
+            "cooperation_3": "",
+            "description_3": "",
+            "url": ""
+        }
+    }],
+    "news": {
+        "title": "",
+        "subtitle": ""
+    }
+}

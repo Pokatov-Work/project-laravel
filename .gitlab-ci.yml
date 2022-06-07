@@ -1,0 +1,17 @@
+deploy:
+  stage: deploy
+  only:
+    - dev
+  script:
+    -  echo "Starting Deploy..."
+    -  id
+    -  cd /var/www/site/site/blockchaincapital
+    -  git checkout -- .
+    -  git pull origin dev
+    -  echo "Deploy Finished."
+    -  echo "Rebuild frontend"
+    -  cd resources/frontend
+    -  npm run server_stop
+    -  npm install
+    -  npm run build
+    -  npm run server_start

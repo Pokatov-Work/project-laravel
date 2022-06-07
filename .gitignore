@@ -1,0 +1,45 @@
+.DS_Store
+node_modules
+/vendor
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.iml
+
+/public/hot
+/public/storage
+/public/files
+/public/img/page
+/storage/*.key
+
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+
+/bootstrap/cache/
+.htaccess
+.ftpconfig
+/resources/frontend/.env
+/resources/frontend/package-lock.json
+/resources/frontend/node_modules
+package-lock.json
+node_modules
